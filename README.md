@@ -1,4 +1,4 @@
-# hyperspectral sensing research
+# HYPERSPECTRAL PHOTON SENSING RESEARCH
 
 Research archive for the computational study by Vansh Jain.
 
