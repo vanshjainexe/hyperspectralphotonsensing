@@ -139,5 +139,9 @@ To archive the code and results on GitHub, extract the archive, open the folder
 as a repository and commit its contents. The included checksum manifests make
 it possible to identify the exact files used in this study.
 
+## CS side of the paper 
+
+On the computing side, I have tested three ways to turn photon counts into digital values: uniform quantization, square-root companding and empirical quantile quantization. A regression model then tries to recover the original 31-band spectrum from those readings. We choose the channel count and coding method on validation scenes, then test them on separate scenes to see how well they use the same 24-bit budget.
+
 
 Any critiques, comments, opinions and ideas are appreciated!
