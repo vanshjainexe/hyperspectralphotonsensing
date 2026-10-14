@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "representative_recomputed_conditions": [
+    {
+      "config": "main",
+      "scene": "balloons",
+      "photons": 100000,
+      "channels": 6,
+      "trials": 3,
+      "max_rmse_reproduction_error": 9.71445146547012e-17
+    },
+    {
+      "config": "sqrt_adc",
+      "scene": "balloons",
+      "photons": 100000,
+      "channels": 6,
+      "trials": 3,
+      "max_rmse_reproduction_error": 6.591949208711867e-17
+    },
+    {
+      "config": "quantile_adc",
+      "scene": "balloons",
+      "photons": 100000,
+      "channels": 24,
+      "trials": 3,
+      "max_rmse_reproduction_error": 5.551115123125783e-17
+    }
+  ],
+  "joint_decisions_recomputed": 270,
+  "disjoint_scene_roles": "passed",
+  "original_rows": 72090,
+  "extension_rows": 9720
+}

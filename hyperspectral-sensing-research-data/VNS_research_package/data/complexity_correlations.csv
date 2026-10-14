@@ -1,0 +1,13 @@
+decoder,rank_statistic,spearman_rho,permutation_p_unadjusted,permutations,exploratory
+clean,raw_effective_rank,0.35489770491281136,0.19329033548322583,20000,True
+clean,shape_effective_rank,-0.3703280399090206,0.17589120543972803,20000,True
+clean,mean_brightness,-0.33175220241849757,0.22768861556922154,20000,True
+interpolation,raw_effective_rank,0.5649784777069908,0.03159842007899605,20000,True
+interpolation,shape_effective_rank,-0.4495084238690657,0.10059497025148742,20000,True
+interpolation,mean_brightness,0.0,1.0,20000,True
+matched,raw_effective_rank,0.35489770491281136,0.1977401129943503,20000,True
+matched,shape_effective_rank,-0.3703280399090206,0.17079146042697865,20000,True
+matched,mean_brightness,-0.33175220241849757,0.2287885605719714,20000,True
+quadratic,raw_effective_rank,0.32732683535398854,0.2537373131343433,20000,True
+quadratic,shape_effective_rank,-0.29459415181858967,0.311684415779211,20000,True
+quadratic,mean_brightness,-0.26186146828319085,0.3701814909254537,20000,True

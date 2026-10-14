@@ -1,0 +1,15 @@
+test_crosstalk_conservation (__main__.TestForwardModel.test_crosstalk_conservation) ... ok
+test_darkness (__main__.TestForwardModel.test_darkness) ... ok
+test_fixed_bit_budgets (__main__.TestForwardModel.test_fixed_bit_budgets) ... ok
+test_noiseless_identity (__main__.TestForwardModel.test_noiseless_identity) ... ok
+test_photon_conservation (__main__.TestForwardModel.test_photon_conservation) ... ok
+test_poisson_mean (__main__.TestForwardModel.test_poisson_mean) ... ok
+test_quantization_codes_and_bounds (__main__.TestForwardModel.test_quantization_codes_and_bounds) ... ok
+test_repeatability (__main__.TestForwardModel.test_repeatability) ... ok
+test_sam_zero_prediction_not_omitted (__main__.TestForwardModel.test_sam_zero_prediction_not_omitted) ... ok
+test_white_reference_ratio (__main__.TestForwardModel.test_white_reference_ratio) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.257s
+
+OK

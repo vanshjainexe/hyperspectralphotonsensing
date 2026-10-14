@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "trial_rows": 72090,
+  "scene_configuration_files": 180,
+  "source_spectral_pngs": 465,
+  "scenes": 15,
+  "configs": 12,
+  "fold_disjointness": "passed",
+  "validation_only_selection_recomputed": "passed",
+  "unique_trial_keys": "passed",
+  "fixed_budget_conservation": "passed",
+  "finite_metrics": "passed",
+  "all_png_integrity": "passed",
+  "physics_and_software_unit_tests": 10,
+  "figures_png": 12,
+  "legacy_png": 9,
+  "scope": "15-scene computational study; not hardware or external-dataset validation"
+}

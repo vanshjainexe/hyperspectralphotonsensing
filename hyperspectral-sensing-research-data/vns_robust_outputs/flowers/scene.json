@@ -1,0 +1,14 @@
+{
+  "null": {
+    "rmse": 0.13526780600908508,
+    "psnr": 17.376111080066007,
+    "sam": 34.54347809210595,
+    "sam_pixels": 4096,
+    "zero_prediction_fraction": 0.0
+  },
+  "dimension": {
+    "pca_components_95pct": 2,
+    "pca_components_99pct": 3,
+    "effective_rank": 1.6825226684615662
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "scenes": 15,
+  "router_efficiency_main": 0.84,
+  "spearman_effective_rank_vs_winning_channels_100k": 0.6350852961085882,
+  "spearman_p_value": 0.010964054875091044,
+  "router_crossover_photons": 1000,
+  "filter_crossover_photons": 10000,
+  "router_advantage_percent": [
+    {
+      "photons": 30,
+      "router_rmse_reduction_percent": 31.64024029787374
+    },
+    {
+      "photons": 100,
+      "router_rmse_reduction_percent": 31.80445785273728
+    },
+    {
+      "photons": 300,
+      "router_rmse_reduction_percent": 27.44784164231952
+    },
+    {
+      "photons": 1000,
+      "router_rmse_reduction_percent": 19.45693093189298
+    },
+    {
+      "photons": 3000,
+      "router_rmse_reduction_percent": 17.753176261543658
+    },
+    {
+      "photons": 10000,
+      "router_rmse_reduction_percent": 10.109729799399863
+    },
+    {
+      "photons": 30000,
+      "router_rmse_reduction_percent": 4.154858452557703
+    },
+    {
+      "photons": 100000,
+      "router_rmse_reduction_percent": 1.35274769766192
+    }
+  ]
+}

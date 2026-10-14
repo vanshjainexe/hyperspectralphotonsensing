@@ -1,0 +1,21 @@
+{
+  "unit_checks": 14,
+  "checks": [
+    {
+      "script": "test_vns.py",
+      "returncode": 0
+    },
+    {
+      "script": "test_quantizer_extension.py",
+      "returncode": 0
+    },
+    {
+      "script": "verify_paper_results.py",
+      "returncode": 0
+    }
+  ],
+  "source_band_checksums_matched": 465,
+  "pdf_pages": 11,
+  "formatting_preserved_ast": true,
+  "raw_spectral_scenes": 15
+}

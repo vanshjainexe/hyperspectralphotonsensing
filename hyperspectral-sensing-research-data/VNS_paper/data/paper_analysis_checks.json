@@ -1,0 +1,10 @@
+{
+  "extension_rows": 9720,
+  "unique_trial_keys": true,
+  "finite_metrics": true,
+  "budget": 24,
+  "scenes": 15,
+  "bootstrap_resamples": 10000,
+  "scope": "exploratory extension on same 15 scenes",
+  "selection": "minimum validation scene-mean RMSE, never test RMSE"
+}

@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "pdf_pages": 11,
+  "figures": 9,
+  "tables": 3,
+  "bibliographic_references": 8,
+  "unit_checks_passed": 14,
+  "compiled_with": "pdfLaTeX + BibTeX; complete four-pass build",
+  "missing_references_or_citations": false,
+  "overfull_boxes": 0,
+  "embedded_fonts": true,
+  "visual_review": "Every page reviewed; figure spacing and initial overflow corrected",
+  "numerical_review": "270 joint design decisions independently checked; 9 representative trial results recomputed to <1e-10 tolerance",
+  "scope": "15-scene computational manuscript; exploratory extension; no physical validation",
+  "baseline_trial_records": 72090,
+  "extension_trial_records": 9720
+}

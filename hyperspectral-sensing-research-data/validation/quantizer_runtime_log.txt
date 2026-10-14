@@ -1,0 +1,16 @@
+balloons: 648 rows; 11.2s
+beads: 648 rows; 21.3s
+cd: 648 rows; 31.4s
+chart_and_stuffed_toy: 648 rows; 41.2s
+clay: 648 rows; 51.6s
+cloth: 648 rows; 65.8s
+egyptian_statue: 648 rows; 78.0s
+feathers: 648 rows; 89.2s
+flowers: 648 rows; 105.9s
+glass_tiles: 648 rows; 119.2s
+pompoms: 648 rows; 131.9s
+sponges: 648 rows; 146.2s
+stuffed_toys: 648 rows; 163.7s
+superballs: 648 rows; 176.5s
+thread_spools: 648 rows; 188.8s
+Extension complete
