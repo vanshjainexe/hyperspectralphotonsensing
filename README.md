@@ -138,3 +138,6 @@ repository is https://cave.cs.columbia.edu/repository.
 To archive the code and results on GitHub, extract the archive, open the folder
 as a repository and commit its contents. The included checksum manifests make
 it possible to identify the exact files used in this study.
+
+
+Any critiques, comments, opinions and ideas are appreciated!
